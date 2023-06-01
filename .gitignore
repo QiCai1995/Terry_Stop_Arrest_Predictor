@@ -1,6 +1,5 @@
 # CSV
-Data/
-*.csv
+/data/*.csv
 
 
 
