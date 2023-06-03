@@ -28,24 +28,42 @@ Overall goal is to come up with a binary classification model solution and to pr
 ## Source of data
 
 [Terry Stops City of Seattle Open Data Portal](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8)
+
 Description of Data:
 This data represents records of police reported stops under Terry v. Ohio, 392 U.S. 1 (1968). Each row represents a unique stop.
 Each record contains perceived demographics of the subject, as reported by the officer making the stop and officer demographics as reported to the Seattle Police Department, for employment purposes.
 
 
 ## Visualizations (the same visualizations presented in the slides and notebook)
-
+### Stops Arrest Background
 ![Stop Resolution](https://i.imgur.com/QIHetka.png)
 
 ![On-Site Physical Arrest Rate](https://i.imgur.com/Tu4UAPa.png)
 
+
+#### Dummy Model Confusion Matrix
+![Dummy Model Confusion Matrix](https://i.imgur.com/U0iMcKm.png)
+
+#### Dummy Model ROC Graph
+![Dummy Model ROC Graph](https://i.imgur.com/SuhPw3o.png)
+
+#### Logistic Regression Model Confusion Matrix
 ![Logistic Regression Confusion Matrix](https://i.imgur.com/1rhuJUi.png)
 
+#### Logistic Regression ROC Graph
 ![Logistic Regression ROC Graph](https://i.imgur.com/90tgyrj.png)
 
+#### Logistic Regression Model Classification Report
+![Logistic Regression Model Classification Report](https://i.imgur.com/CCbBb08.png)
+
+#### Decision Tree Model Confusion Matrix
 ![Decision Tree Confusion Matrix](https://i.imgur.com/666nZyR.png)
 
+#### Decision Tree ROC Graph
 ![Decision Tree ROC Graph](https://i.imgur.com/uADJwfg.png)
+
+#### Decision Tree Model Classification Report
+![Decision Tree Model Classification Report](https://i.imgur.com/0YO5YQw.png)
 
 
 
@@ -53,3 +71,8 @@ Each record contains perceived demographics of the subject, as reported by the o
 Decision Tree Classifier Model has the best performance to predict the arrest rate after a Terry stop. It yields a F1 score of 0.89.
 
 The top features in this model are arrest flag and frisk flag.
+
+## Further Improvement
+To further improve my model, I will use gridsearchCV to run my models in order to get a better F1-score.
+Looking into feature importances.
+Applying other models, such as random forest, K-nearest neighbor.
