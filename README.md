@@ -1,5 +1,6 @@
 # Terry Stop Arrest Predictor
-!(https://images.unsplash.com/photo-1625449281218-cbb6183f0aec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
+![](https://images.unsplash.com/photo-1625449281218-cbb6183f0aec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+
 
 
 # Project Overview
@@ -25,6 +26,7 @@ Overall goal is to come up with a binary classification model solution and to pr
 
 
 ## Source of data
+
 [Terry Stops City of Seattle Open Data Portal](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8)
 Description of Data:
 This data represents records of police reported stops under Terry v. Ohio, 392 U.S. 1 (1968). Each row represents a unique stop.
@@ -32,12 +34,18 @@ Each record contains perceived demographics of the subject, as reported by the o
 
 
 ## Visualizations (the same visualizations presented in the slides and notebook)
-![Stop Resolution](https://imgur.com/QIHetka)
-![On-Site Physical Arrest Rate](https://imgur.com/Tu4UAPa)
-![Logistic Regression Confusion Matrix](https://imgur.com/1rhuJUi)
-![Logistic Regression ROC Graph](https://imgur.com/90tgyrj)
-![Decision Tree Confusion Matrix](https://imgur.com/666nZyR)
-![Decision Tree ROC Graph](https://imgur.com/uADJwfg)
+
+![Stop Resolution](https://i.imgur.com/QIHetka.png)
+
+![On-Site Physical Arrest Rate](https://i.imgur.com/Tu4UAPa.png)
+
+![Logistic Regression Confusion Matrix](https://i.imgur.com/1rhuJUi.png)
+
+![Logistic Regression ROC Graph](https://i.imgur.com/90tgyrj.png)
+
+![Decision Tree Confusion Matrix](https://i.imgur.com/666nZyR.png)
+
+![Decision Tree ROC Graph](https://i.imgur.com/uADJwfg.png)
 
 
 
