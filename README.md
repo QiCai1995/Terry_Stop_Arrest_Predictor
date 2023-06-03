@@ -42,10 +42,10 @@ Each record contains perceived demographics of the subject, as reported by the o
 
 
 #### Dummy Model Confusion Matrix
-![Dummy Model Confusion Matrix](https://i.imgur.com/U0iMcKm.png)
+<img src="https://i.imgur.com/U0iMcKm.png" width=50% height=50%>
 
 #### Dummy Model ROC Graph
-![Dummy Model ROC Graph](https://i.imgur.com/SuhPw3o.png)
+<img src="https://i.imgur.com/SuhPw3o.png" width=50% height=50%>
 
 #### Logistic Regression Model Confusion Matrix
 ![Logistic Regression Confusion Matrix](https://i.imgur.com/1rhuJUi.png)
