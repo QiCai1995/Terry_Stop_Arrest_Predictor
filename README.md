@@ -54,7 +54,7 @@ Each record contains perceived demographics of the subject, as reported by the o
 ![Logistic Regression ROC Graph](https://i.imgur.com/90tgyrj.png)
 
 #### Logistic Regression Model Classification Report
-![Logistic Regression Model Classification Report](https://i.imgur.com/CCbBb08.png)
+<img src="https://i.imgur.com/CCbBb08.png" width=50% height=50%>
 
 #### Decision Tree Model Confusion Matrix
 ![Decision Tree Confusion Matrix](https://i.imgur.com/666nZyR.png)
@@ -63,8 +63,7 @@ Each record contains perceived demographics of the subject, as reported by the o
 ![Decision Tree ROC Graph](https://i.imgur.com/uADJwfg.png)
 
 #### Decision Tree Model Classification Report
-![Decision Tree Model Classification Report](https://i.imgur.com/0YO5YQw.png)
-
+<img src="https://i.imgur.com/0YO5YQw.png" width=50% height=50%>
 
 
 ## Conclusion
