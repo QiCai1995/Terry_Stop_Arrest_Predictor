@@ -9,7 +9,7 @@
 
 Build a classifier to predict whether an arrest was made after a Terry Stop, given information about the presence of weapons, the time of day of the call, etc. This is a binary classification problem.
 
-## Stackholder
+## Stakeholders
 
 Civil rights organizations: people who work to protect civil liberties and ensure fair treatment of individuals by law enforcement. They can use this classifier’s predictions to highlight potential biases or disproportionate targeting during the Terry Stops.
 
