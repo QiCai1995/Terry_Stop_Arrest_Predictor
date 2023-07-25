@@ -72,6 +72,6 @@ The decision Tree Classifier Model has the best performance to predict the arres
 The top features in this model are the arrest flag and frisk flag.
 
 ## Further Improvement
-To further improve my model, I will use gridsearchCV to run my models in order to get a better F1 score.
-Looking into feature importances.
-Applying other models, such as random forest, K-nearest neighbor.
+To further improve my model, I will use gridsearchCV for hyperparameter tuning to run my models in order to get a better F1 score.
+I will also be looking into feature importance to see what are the important features of my model.
+Also, applying other models, such as random forest, K-nearest neighbor.
